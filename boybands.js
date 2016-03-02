@@ -6,7 +6,7 @@ var loopCount;
 if (bands.length >= vegetables.length) {
     loopCount = bands.length;
 } else {
-    loopCount = vegetables.length
+    loopCount = vegetables.length;
 }
 
 // Keep track of which band we're on in the loop
